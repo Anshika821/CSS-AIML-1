@@ -1,6 +1,6 @@
 p{
-    color:blue;
-    background-color:pink;
+    color:black;
+    background-color:whitesmoke
     text-align:center;
 }
 .p{
@@ -15,4 +15,7 @@ div{
     width:200px;
     background-color:blueviolet;
     padding :10px;
+    border:1px solid black;
+    margin:100px;
+    
 }
