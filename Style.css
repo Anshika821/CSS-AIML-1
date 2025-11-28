@@ -1,4 +1,4 @@
- p{
+ /* p{
     color:black;
     background-color:pink;
     text-align:center;
@@ -18,4 +18,25 @@
     border:1px solid black;
     margin:100px;
     
+} */
+div{
+    height:100px;
+    width:300px
+    margin: 20px;
+    border:solid black;
+
+}
+.box{
+    height:100px;
+    width:150px;
+}
+.box1{
+    background-color:yellowgreen;
+
+}
+.box2{
+    background-color:deeppink;
+}
+.box3{
+    background-color:rgb(139, 179, 166);
 }
