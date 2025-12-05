@@ -43,7 +43,7 @@
  .container{
     height:500px;
     width:1000px;
-background-color: aqua;
+background-color: rgb(15, 71, 90);
 border: 1px solid black;
 display:grid;
 grid-template-columns:repeat(4,100px);
@@ -59,7 +59,7 @@ align-content: center;
  .item{
      height:100px;
     width:100px;  
-    background-color:pink;
+    background-color:rgb(232, 124, 142);
     color:white;
     border:1px black;
     text-align: center;
