@@ -40,7 +40,7 @@
 .box3{
     background-color:rgb(139, 179, 166);
 } */
- .container{
+ /* .container{
     height:500px;
     width:1000px;
 background-color: rgb(15, 71, 90);
@@ -55,7 +55,7 @@ align-content: center;
 
 /* grid-template-areas:"header header header header" "main main .sidebar" "footer footer footer footer" */
 
- }
+ /* }
  .item{
      height:100px;
     width:100px;  
@@ -64,9 +64,9 @@ align-content: center;
     border:1px black;
     text-align: center;
     align-content:center ;
-  
+   */
 
- }
+    
 /* .item1{
     grid-area:header;
 }
@@ -79,4 +79,18 @@ align-content: center;
  .item4{
     grid-area:footer;
  } */
-
+.box{
+    height: 100px;
+    width :100%;
+    background-color: green;
+}
+@media(min-width:768px){
+    .box{
+        background-color: red;
+    }
+}
+@media(min-width:1024px){
+    .box{
+        background-color: yellow;
+    }
+}
