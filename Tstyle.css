@@ -1,3 +1,38 @@
-h3{
-    color:blue;
+*{
+    background-color:rgb(10, 10, 99);
+}
+#big{
+border:3px solid white;
+background-color:black;
+height:60px;
+width:2000px;
+}
+#box1{
+    background-color: white;
+    color:black;
+    height:25px;
+    width:300px;
+    padding:7px;
+    margin-top:20px;
+    margin-right:3px;
+
+}
+#box2{
+    background-color: #f08804;
+    color:white;
+    height:25px;
+    width:85px;
+    padding:7px;
+    margin-top:10px;
+}
+#ang{
+    font-size: 25px;
+    color:#f08804;
+    background-color: black;
+    margin-right:30px;
+}
+.lon{
+    background-color: black;
+    color:white;
+    margin:200px;
 }
